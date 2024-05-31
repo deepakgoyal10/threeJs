@@ -1,1 +1,1 @@
-parcel ./src/index.html
+run: parcel ./src/index.html
